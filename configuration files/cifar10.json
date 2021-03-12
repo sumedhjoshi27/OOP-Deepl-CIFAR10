@@ -23,6 +23,7 @@
     "no_of_filters_l3": 64,
     "conv_activation_l3": "relu",
     "no_of_filters_l4":64,
+    "no_of_filters_l5":64,
     "conv_activation_l4": "relu",
     "dense_activation_l1": "relu",
     "dense_activation_l2": "softmax",
